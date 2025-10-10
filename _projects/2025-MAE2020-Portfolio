@@ -1,0 +1,12 @@
+---
+layout: project
+title: Portfolio-MAE2020
+description: 2D mechanism design project
+technologies: Hand-design
+image: /assets/images/portfolio.jpg
+---
+
+This project focused on the optimization of a 2D weight lifting apparatus. The device was designed using the restraint setup of three pin supports (two of which were attached to the base of the design space) as well as one rigid metal rod and one linear actuator device. The objective of the project was to lift the maximum possible weight to the maximum possible height. 
+
+To design this system, I chose an actuator (IMA55) that could produce a highly significant thrust force of 35.81 kN. Using this thrust force and the device specifications, the maximum possible weight carried by my design is 21.42 kN. The actuator was placed at the center of the rigid rod to optimize the output force against the weightage of the load.
+
