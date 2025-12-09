@@ -7,6 +7,7 @@ image: /assets/images/portfolio.jpg
 ---
 
 **STEP 1**
+
 **Project Statement:** 
 
 To design a frame/mechanism that can lift the maximum possible weight to the maximum possible height. We are to assume that the support and actuator are rigid.
@@ -21,6 +22,7 @@ To design this system, I chose an actuator (IMA55) that could produce a highly s
 
 
 **STEP 2**
+
 **Project Statement**
 This portion of the project assumes the bar is no longer rigid - the beam bends relative to the applied load. I am looking for a model of the system that is the most mass-efficient possible.
 
